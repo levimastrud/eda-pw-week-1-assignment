@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(203, 230, 203);
+    background-color: rgb(130, 156, 202);
+    margin-bottom: 0px;
 }
 header{
     color:white;
@@ -9,7 +10,12 @@ h1{
     font-size: 50px;
 }
 footer{
-    background-color:rgb(121, 14, 37);
+    background-color:rgb(101, 76, 124);
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
 }
 p{
     color:white;
@@ -29,5 +35,6 @@ p{
 }
 ul{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin: 20px 20px 40px 20px;
+    background-color: white;
+    font-size: xx-large;
 }
